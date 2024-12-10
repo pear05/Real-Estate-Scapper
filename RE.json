@@ -1,0 +1,18 @@
+{
+    "name": "Real Estate Web Scraper",
+    "description": "A Python-based web scraper to extract real estate listings.",
+    "version": "1.0.0",
+    "author": "Your Name",
+    "license": "MIT",
+    "requirements": [
+      "beautifulsoup4",
+      "requests",
+      "scrapy"
+    ],
+    "usage": {
+      "installation": "pip install -r requirements.txt",
+      "running": "python scraper.py"
+    },
+    "contributing": "Please feel free to contribute to this project by submitting pull requests.",
+    "issues": "Report any issues or bugs on the GitHub issue tracker."
+  }
